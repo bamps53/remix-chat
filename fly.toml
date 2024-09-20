@@ -1,4 +1,4 @@
-app = "remix-chat-b940"
+app = "remix-chat-gpt"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = [ ]
